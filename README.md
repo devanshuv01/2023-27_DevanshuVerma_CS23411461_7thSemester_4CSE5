@@ -1,0 +1,1 @@
+Food Genie is a production-ready, AI-powered food ordering application built using the "MERN stack (MongoDB, Express.js, React, and Node.js)". It is a comprehensive full-stack solution designed with scalability, performance, security, and user engagement in mind.
